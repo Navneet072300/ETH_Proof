@@ -58,7 +58,7 @@ Once the contract is deployed, you can interact with it by intializing the varia
 
 ## Authors
 
-Navneet Shahi  
+Navneet Shahi 
 
 
 
